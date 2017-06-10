@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9176" started-at="2017-06-09T23:06:43Z" finished-at="2017-06-09T23:06:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9176" started-at="2017-06-09T23:06:43Z" finished-at="2017-06-09T23:06:52Z">
+      <class name="com.seleniumeasy.test.SingleInputField">
+        <test-method status="PASS" signature="SingleInputField()[pri:0, instance:com.seleniumeasy.test.SingleInputField@1a0b5323]" name="SingleInputField" duration-ms="8945" started-at="2017-06-10T02:06:43Z" finished-at="2017-06-10T02:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleInputField -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumeasy.test.SingleInputField@1a0b5323]" name="tearDown" is-config="true" duration-ms="132" started-at="2017-06-10T02:06:52Z" finished-at="2017-06-10T02:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumeasy.test.SingleInputField -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
